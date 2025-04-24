@@ -65,6 +65,6 @@ I left this petri dishes to grow for 4 days. After a week, *T. harzianum* can al
 </details>
 
 ## Conclusion
-The results of this experiment were not what I expected. I thought that *T. harzianum* would grow best at 37 °C, but it actually grew best at room temperature. The growth at 4 °C was almost non-existent, which is what I expected.
+The results of this experiment were not what I expected. I thought that *T. harzianum* would grow best at 37 °C, but it actually grew best at room temperature. The growth at 4 °C was almost non-existent, which is what I expected. 37 °C was past the optimal temperature for *T. harzianum*.
 
 I think that the results of this experiment are consistent with the hypothesis, but I would like to repeat it with a larger sample size and more temperature points. I would also like to try using different media, such as potato dextrose agar (PDA) to see if that has an effect on the growth rate.

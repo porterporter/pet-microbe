@@ -28,6 +28,9 @@ const { pathname } = Astro.url;
 			<slot />
 		</main>
 		<img id="background" src={background.src} alt="" fetchpriority="high" />
+		<footer>
+			Porter Milton - <a href="https://github.com/porterporter/pet-microbe" target="_blank">Source</a>
+		</footer>
 	</body>
 </html>
 
@@ -109,5 +112,9 @@ const { pathname } = Astro.url;
 	img {
 		max-width: 100%;
 		height: auto;
+	}
+
+	footer {
+		font-weight: 600;
 	}
 </style>

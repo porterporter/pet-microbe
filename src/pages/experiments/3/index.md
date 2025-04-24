@@ -17,10 +17,10 @@ Prepare 6 Soybean seedlings. Wrap 2x seedlings with *S. sclerotiorum* and 2x see
 In this experiment, the seedlings with no fungi will be the control. This will allow me to compare the growth of the seedlings with *S. sclerotiorum* and *T. harzianum* to the growth of the seedlings without any fungi.
 
 ### Treatments
-1. Soybeans innoculated with *S. sclerotiorum*
-2. Soybeans innoculated with *S. sclerotiorum* and *T. harzianum*
+1. Soybeans inoculated with *S. sclerotiorum*
+2. Soybeans inoculated with *S. sclerotiorum* and *T. harzianum*
 
-The plants were left in a grow chamber for 6 days.
+Plants are inoculated by taking a sample of the fungi, and wrapping it around the base of the plant using parafilm. The plants were left in a grow chamber for 6 days.
 
 ## Results
 
@@ -54,4 +54,8 @@ The plants were left in a grow chamber for 6 days.
 
 
 ## Conclusion
-I haven't written this part yet.
+This experiment was also inconclusive. The plants with *S. sclerotiorum* and *T. harzianum* had less discoloration than the plants with only *S. sclerotiorum*, but not enough to reach any conclusion. The control plants had slight natural discoloration, but not enough to be concerned about. I was not able to decern if *T. harzianum* had any effect in reducing the severity of *S. sclerotiorum* (white mold) in a soybean host. In future experiments, I would...
+1. Use a larger sample size
+2. Inoculate earlier in the growth cycle
+3. Attach the fungi to the roots of the plants
+4. Use a different method of inoculation
